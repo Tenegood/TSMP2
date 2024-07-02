@@ -1,2 +1,0 @@
-powershell -c "Invoke-WebRequest -Uri 'https://nightly.link/packwiz/packwiz/workflows/go/main/Windows\064-bit.zip' -OutFile '.\packwiz.zip'"
-powershell -c "Expand-Archive -Path '.\packwiz.zip' -DestinationPath '.'"

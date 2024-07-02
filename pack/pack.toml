@@ -1,0 +1,13 @@
+name = "Tenegood SMP 2"
+author = "Kirbob, Mega"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "14c386d5c3ad0071b3bb3ce4678307c891c9f4b0a109da8edc85d247e8346031"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
