@@ -106,6 +106,16 @@ hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "dc7a1dd927927788de75b4ec7bf29b40d0d4704a13788bdfcba5d5b243d0eaa1"
+metafile = true
+
+[[files]]
+file = "mods/chat-on-lost-focus.pw.toml"
+hash = "0d27224a11171808b04e4b04222f5e4cb0da6333725e5144b0255167355eb30c"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "49b2b0d2d2ed240af2fd8e59c1ebfc4aae9206a5200e176c5f1182325e6c560d"
 metafile = true
@@ -508,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
 metafile = true
 
 [[files]]

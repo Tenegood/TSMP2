@@ -1,0 +1,13 @@
+name = "Chat On Lost Focus"
+filename = "Chat On Lost Focus-1.2.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bX471fNm/versions/ptM9SCgz/Chat%20On%20Lost%20Focus-1.2.6.jar"
+hash-format = "sha1"
+hash = "6e8ae74f6c081b4b658d9039a87adee54ffd23b9"
+
+[update]
+[update.modrinth]
+mod-id = "bX471fNm"
+version = "ptM9SCgz"
