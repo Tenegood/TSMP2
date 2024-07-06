@@ -291,6 +291,11 @@ hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
 metafile = true
 
 [[files]]
+file = "mods/fantastic-biomes-cave.pw.toml"
+hash = "2728aecb9fa5831d22e7927c2a5683a0b67dbcbf6cee990c6d3c6bc3d1c00df5"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "72cc5d492b49c72c87da9629cd51e7240abae422784fef925872a0d4187c4932"
 metafile = true
@@ -401,6 +406,11 @@ hash = "8ab7e0ed8da8c512c3389a96ccbc17ef8a2a028e0bce92be5f37418970485de4"
 metafile = true
 
 [[files]]
+file = "mods/natures-spirit.pw.toml"
+hash = "9b977aed919559f179c9efdbf8a8437c907218bc54dca4c5800604ddb4b9d261"
+metafile = true
+
+[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
 metafile = true
@@ -433,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "210f63f6db9305b53bcb2f6a0b39e2231267f0b81dcc5673bfe3e98aa07fd0b2"
+metafile = true
+
+[[files]]
+file = "mods/profundis.pw.toml"
+hash = "94dff715dd8bec21c61fb8f012394ca92bdc609200f195402be8a57e8539748a"
 metafile = true
 
 [[files]]
@@ -521,6 +536,11 @@ hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]
+file = "mods/spelunkery.pw.toml"
+hash = "da7add3d42e061dd961abd0288d0ed8837e816b5eed75fa87c7609ee66b1e8b6"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
 metafile = true
@@ -538,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/techreborn.pw.toml"
 hash = "e08ed79fafeb21ca809e76f4b328ecff1d30f2cfae62687087310eafd74b9cbd"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "99ae3a898041d9e7b6d2de55909287baacd6f71846e44f61f6a9420587fd7a09"
 metafile = true
 
 [[files]]

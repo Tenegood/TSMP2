@@ -1,12 +1,12 @@
 name = "Tenegood SMP 2"
 author = "Kirbob, Mega"
-version = "0.5.0"
+version = "0.6.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8d171e5b60296d10423067086c58de334f178fab342048932d34e3e680442df2"
+hash = "172bec858f1586d8a3cf39ee91f2077e47bc43388e8dc555af149ff796c9f1e5"
 
 [versions]
 fabric = "0.15.11"
