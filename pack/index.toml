@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-on-lost-focus.pw.toml"
-hash = "0d27224a11171808b04e4b04222f5e4cb0da6333725e5144b0255167355eb30c"
+hash = "aef7f355c2030b6fda0eb3f4287a9629f44f8e66003ebb8338dcc22295216300"
 metafile = true
 
 [[files]]
