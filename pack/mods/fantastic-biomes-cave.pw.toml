@@ -1,6 +1,6 @@
 name = "Fantastic Biomes Cave"
 filename = "Fantastic Biomes Cave 1.20.1-2.1.0 fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TpRx7PvZ/versions/a1yiTfrt/Fantastic%20Biomes%20Cave%201.20.1-2.1.0%20fabric.jar"

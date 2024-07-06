@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/fantastic-biomes-cave.pw.toml"
-hash = "2728aecb9fa5831d22e7927c2a5683a0b67dbcbf6cee990c6d3c6bc3d1c00df5"
+hash = "8d74e588e67843c8d2c73658756bd9722d1be1e1b9d9b5948b6de64b4770d619"
 metafile = true
 
 [[files]]
@@ -406,6 +406,11 @@ hash = "8ab7e0ed8da8c512c3389a96ccbc17ef8a2a028e0bce92be5f37418970485de4"
 metafile = true
 
 [[files]]
+file = "mods/natures-delight.pw.toml"
+hash = "4090e1f0f05ab78878f3b1f45e1b112f6028bc526275fd1f80ef560cd213e843"
+metafile = true
+
+[[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "9b977aed919559f179c9efdbf8a8437c907218bc54dca4c5800604ddb4b9d261"
 metafile = true
@@ -447,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/profundis.pw.toml"
-hash = "94dff715dd8bec21c61fb8f012394ca92bdc609200f195402be8a57e8539748a"
+hash = "1aa8a163d7d5addfd0987ffb1c02f1f0a56e4df12854b7db420c87e76e954dbd"
 metafile = true
 
 [[files]]
@@ -542,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
+hash = "4df7a83e4162bb71e20ef2bea25042daadf04ac5daab143b0035af0405160b65"
 metafile = true
 
 [[files]]
