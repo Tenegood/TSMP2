@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/cadmus.pw.toml"
-hash = "45cacebf98b1720caa2f2ea9c7072398b43bb042f91bb8ae10fbe03f4af2fb19"
+hash = "241146c0daa95b2fc2f7ab72f5029e38c3315a360dffadcc7b236c9c6757325d"
 metafile = true
 
 [[files]]
