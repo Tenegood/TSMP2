@@ -226,6 +226,11 @@ hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
 metafile = true
 
 [[files]]
+file = "mods/eightseconomyp.pw.toml"
+hash = "2806d8552eb3a87f48ab605c4104930049e33efb28cca362c1357848ccbbb68e"
+metafile = true
+
+[[files]]
 file = "mods/enderchests.pw.toml"
 hash = "3c20ab637590cb3b34132ab095d260cce7672938a6e298d541ec490292fd442d"
 metafile = true
