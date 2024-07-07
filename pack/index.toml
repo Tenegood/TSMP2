@@ -61,6 +61,11 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "597db06a671717007869d4aa033732fa7d03fc370deb934f2085601fd2c9b99d"
+metafile = true
+
+[[files]]
 file = "mods/async-locator.pw.toml"
 hash = "b0c84806bc32028e006144a81865ff5180614bb8146ffc265a905bb2c6c3e1bb"
 metafile = true
