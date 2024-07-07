@@ -101,6 +101,11 @@ hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
 metafile = true
 
 [[files]]
+file = "mods/cadmus.pw.toml"
+hash = "45cacebf98b1720caa2f2ea9c7072398b43bb042f91bb8ae10fbe03f4af2fb19"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
@@ -608,6 +613,11 @@ metafile = true
 [[files]]
 file = "mods/voidz.pw.toml"
 hash = "e7667444039cd243e349ea1ae6ef97e2b405c619e3102bb0522cf7ede009c451"
+metafile = true
+
+[[files]]
+file = "mods/wasabiwhisper-harmonia.pw.toml"
+hash = "805f359eb3e77263e494b9ef1c3eed3db7daaf6a25a521907308a3ef1c2fb017"
 metafile = true
 
 [[files]]

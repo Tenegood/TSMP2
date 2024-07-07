@@ -1,0 +1,13 @@
+name = "Harmonia"
+filename = "Harmonia-fabric-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GdS8zuZT/versions/Ij1bwLBQ/Harmonia-fabric-1.2.0.jar"
+hash-format = "sha1"
+hash = "a41dcfce445ae473781439743dacf8641f023513"
+
+[update]
+[update.modrinth]
+mod-id = "GdS8zuZT"
+version = "Ij1bwLBQ"
